@@ -1,7 +1,6 @@
 from typing import Any, Dict, List
 
 import streamlit as st
-import streamlit_prophet 
 from streamlit_prophet.lib.dataprep.clean import clean_df
 from streamlit_prophet.lib.dataprep.format import (
     add_cap_and_floor_cols,
