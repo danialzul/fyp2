@@ -2,5 +2,4 @@ streamlit_prophet
 convertdate
 cython==0.22
 numpy
-build_py_2to3
-setuptools<=57.5.0
+setuptools<=57
