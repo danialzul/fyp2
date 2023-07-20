@@ -3,3 +3,4 @@ convertdate
 cython==0.22
 numpy
 build_py_2to3
+setuptools
