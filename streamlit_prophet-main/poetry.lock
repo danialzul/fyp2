@@ -1125,7 +1125,7 @@ typing-extensions = "*"
 
 [package.extras]
 test = ["pytest (>=6.2)", "virtualenv (>20)"]
-toml = ["setuptools (<=57.5.0)"]
+toml = ["setuptools (>=42)"]
 
 [[package]]
 name = "shellingham"
